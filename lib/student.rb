@@ -48,7 +48,7 @@ class Student
     end.first
   end
   
-  def 
+  def .
   
 
   def self.new_from_db(row)
