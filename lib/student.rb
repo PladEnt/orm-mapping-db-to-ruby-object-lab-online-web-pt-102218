@@ -48,7 +48,9 @@ class Student
     end.first
   end
   
-  def self.
+  def self.all_students_in_grade_X(x)
+    
+  end
   
 
   def self.new_from_db(row)
